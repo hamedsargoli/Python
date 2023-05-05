@@ -65,7 +65,6 @@ greet = 'Hi'
 print('-'*50)
 #----------------------------------------------------------------
 # Example 4 
-# center() throws error
 print("Ex 4:" , '\n')
 
 mystr = 'Python is a programming language'    #32 length
